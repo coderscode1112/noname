@@ -62,10 +62,3 @@
 </body>
 </html>
 
-    text-align: center;
-}
-.lin{
-    padding-top: 25px;
-    padding-bottom: 15px;
-    text-align: center;
-}
